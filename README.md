@@ -1,32 +1,41 @@
-<!-- XiaoMo · Mo-cn 主页 README；使用前替换：邮箱/博客/Telegram 占位链接 -->
+<!-- XiaoMo · Mo-cn 主页 README；发布前替换：邮箱/博客/Telegram 占位链接 -->
 
 ```text
 XiaoMo
 ├── role        : Backend Engineer
-├── stack       : Go · Python · PHP
-├── learning    : Rust · Frontend (vibe coding)
-└── status      : open to collaboration
+├── stack       : Go · Python · PHP · Vue3
+├── learning    : Rust · 更多前端
+└── status      : 随缘更新
 ```
 
-> [!IMPORTANT]
-> 我是 **XiaoMo**（GitHub: `Mo-cn`），一名后端工程师。
-> 目前正借助 vibe coding 学习前端与更多后端框架，欢迎交流与合作。
+我是 XiaoMo，后端为主，最近在借着 vibe coding 学前端和 Rust。
 
 ## About Me
 
-- 后端开发为主：Go / Python / PHP，注重代码可读性、可维护性与工程质量
-- 学习路线：Rust、前端技术栈，以 vibe coding 实践驱动
-- 关注：把想法快速落地为可运行的产品，再逐步打磨
+- 日常写 Go / Python / PHP，后端为主
+- 最近在学 Rust，前端用 Vue3 + TypeScript
+- UI 库看项目情况换着用：Arco Design / Ant Design / Naive UI
+- 习惯先把东西做出来跑起来，再慢慢改
 
 ## Tech Stack
+
+**后端**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+**前端**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Arco Design](https://img.shields.io/badge/Arco%20Design-FFD901?style=for-the-badge)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![Naive UI](https://img.shields.io/badge/Naive%20UI-18A058?style=for-the-badge)
+
 > [!NOTE]
-> `Rust` 与前端正处于学习阶段，相关实践来自 vibe coding 项目。
+> 前端和 Rust 都是最近才开始碰的，代码难看别见怪。
 
 ## GitHub Stats
 
@@ -34,9 +43,6 @@ XiaoMo
   <img src="https://github-readme-stats.vercel.app/api?username=Mo-cn&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=cn" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-cn&layout=donut&theme=transparent&hide_border=true&locale=cn&langs_count=6" alt="Top Languages" />
 </p>
-
-> [!NOTE]
-> 数据由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 实时生成，无需手动维护。
 
 ## Coding Activity
 
@@ -46,8 +52,8 @@ XiaoMo
 ```
 <!--END_SECTION:waka-->
 
-> [!NOTE]
-> 该区块由 [waka-readme](https://github.com/athul/waka-readme) GitHub Action 自动更新：在 [wakatime.com](https://wakatime.com) 注册后安装编辑器插件即可开始统计。
+> [!WARNING]
+> 这块是 waka-readme 每天早上自动刷新的，手动改也会被覆盖。
 
 ## Contact
 
@@ -55,5 +61,4 @@ XiaoMo
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-blog.example.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_id)
 
-> [!TIP]
-> 有合作或交流意向，欢迎通过任一联系方式找到我。
+> 想交流直接找我就行，工作的事优先发邮件。
