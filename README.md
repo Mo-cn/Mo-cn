@@ -27,8 +27,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-cn&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=cn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-cn&layout=donut&theme=transparent&hide_border=true&locale=cn&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-sage-17.vercel.app/api?username=Mo-cn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=Mo-cn&layout=donut&theme=transparent&hide_border=true&locale=cn&langs_count=6" alt="Top Languages" />
 </p>
 
 ## Coding Activity
@@ -44,6 +44,7 @@
 
 ## Contact
 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo-cn)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momail@vip.qq.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.moiu.cn)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MoTeam_cn)
