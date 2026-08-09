@@ -1,6 +1,9 @@
-<!-- XiaoMo · Mo-cn 主页 README；发布前替换：邮箱/博客/Telegram 占位链接 -->
+<!-- XiaoMo · Mo-cn 主页 README -->
 
 # XiaoMo
+
+> [!IMPORTANT]
+> 目前正在开发 Molaunch 这款我的世界启动器，也算是 Vibe coding 的一次完全尝试。代码质量不行请见谅😁
 
 后端开发，主要写 Go / Python / PHP，最近在学 Rust 和前端。
 
@@ -41,6 +44,6 @@
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-blog.example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_id)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momail@vip.qq.com)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.moiu.cn)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MoTeam_cn)
