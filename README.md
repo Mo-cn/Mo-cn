@@ -3,7 +3,7 @@
 # XiaoMo
 
 > [!IMPORTANT]
-> 目前正在开发 Molaunch 这款我的世界启动器，也算是 借用ai尝试的一次开发。代码质量参差不齐请见谅（因为ai太强大了🤔，大部分都是一键生成，部分自己手动调的）
+> 目前正在开发 Molaunch 这款我的世界启动器，也算是 借用ai尝试的一次开发。代码质量参差不齐请见谅（因为ai太强大了🤔 部分自己手动调的）
 
 后端开发，主要写 Go / Python / PHP，最近在学 Rust 和前端。
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-three-sage-17.vercel.app/api?username=Mo-cn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=Mo-cn&layout=donut&theme=transparent&hide_border=true&locale=cn&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-sage-17.vercel.app/api/top-langs/?username=Mo-cn&layout=donut&locale=cn&langs_count=6" alt="Top Languages" />
 </p>
 
 ## Coding Activity
