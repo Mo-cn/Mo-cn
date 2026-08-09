@@ -1,21 +1,8 @@
 <!-- XiaoMo · Mo-cn 主页 README；发布前替换：邮箱/博客/Telegram 占位链接 -->
 
-```text
-XiaoMo
-├── role        : Backend Engineer
-├── stack       : Go · Python · PHP · Vue3
-├── learning    : Rust · 更多前端
-└── status      : 随缘更新
-```
+# XiaoMo
 
-我是 XiaoMo，后端为主，最近在借着 vibe coding 学前端和 Rust。
-
-## About Me
-
-- 日常写 Go / Python / PHP，后端为主
-- 最近在学 Rust，前端用 Vue3 + TypeScript
-- UI 库看项目情况换着用：Arco Design / Ant Design / Naive UI
-- 习惯先把东西做出来跑起来，再慢慢改
+后端开发，主要写 Go / Python / PHP，最近在学 Rust 和前端。
 
 ## Tech Stack
 
@@ -34,9 +21,6 @@ XiaoMo
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Naive UI](https://img.shields.io/badge/Naive%20UI-18A058?style=for-the-badge)
 
-> [!NOTE]
-> 前端和 Rust 都是最近才开始碰的，代码难看别见怪。
-
 ## GitHub Stats
 
 <p align="center">
@@ -48,17 +32,15 @@ XiaoMo
 
 <!--START_SECTION:waka-->
 ```txt
-接入 WakaTime 后，这里会自动更新编码时长统计。
+接入 WakaTime 后这里会自动更新。
 ```
 <!--END_SECTION:waka-->
 
 > [!WARNING]
-> 这块是 waka-readme 每天早上自动刷新的，手动改也会被覆盖。
+> 这块由 waka-readme 自动刷新，手改会被覆盖。
 
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-blog.example.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_id)
-
-> 想交流直接找我就行，工作的事优先发邮件。
