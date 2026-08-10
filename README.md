@@ -34,9 +34,11 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
-接入 WakaTime 后这里会自动更新。
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 > [!WARNING]
